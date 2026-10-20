@@ -9,3 +9,4 @@ Platforma: Arduino Uno R3 (ATmega328P)
 * `LED_PIN`: Pin digital pentru LED-ul de stare (13)
 * `BUTTON_PIN`: Buton pentru pornire/oprire achizitie (2)
 EOF\
+Comunicatie seriala la 115200 baud
