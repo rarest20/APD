@@ -10,3 +10,4 @@ Platforma: Arduino Uno R3 (ATmega328P)
 * `BUTTON_PIN`: Buton pentru pornire/oprire achizitie (2)
 EOF\
 Comunicatie seriala la 115200 baud
+Comunicatie seriala la 19200 baud
