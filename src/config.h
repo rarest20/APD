@@ -1,6 +1,5 @@
-// config.h - parametrii nodului de achizitie 
-ifndef CONFIG_H
-#ifndef CONFIG_H
+//config.h - paramaterii nodului de achizitie 
+[200~#ifndef CONFIG_H
 #define CONFIG_H
 
 #define SENSOR_PIN          A0      // intrarea analogică a senzorului
