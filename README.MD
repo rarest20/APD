@@ -2,3 +2,4 @@
 # AUTOR Turcu Rares Ioan 4LF342
 
 Platforma: Arduino Uno R3 (ATmega328P)
+ Autor laborator: <numele vostru>
